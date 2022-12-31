@@ -28,7 +28,7 @@
             android:id="@+id/textViewNama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="Caesar Rio Nugroho"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -40,7 +40,7 @@
             android:id="@+id/textViewKelas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="TI.21.C3"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -52,7 +52,7 @@
             android:id="@+id/textViewNIM"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="xyz"
+            android:text="312110464"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
     </LinearLayout>
 </RelativeLayout>
